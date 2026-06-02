@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!/projects/
+!/projects/**
+
+dist/
+sdk/
+examples/
+**/node_modules/
+**/.env
